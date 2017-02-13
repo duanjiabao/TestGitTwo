@@ -1,5 +1,5 @@
 Creating a new branch is quickand simple.
-add words dev two.ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+add words dev two.·´·´¸´¸´
 master
-hehe
-hahagaga
+DevOne
+Dev
